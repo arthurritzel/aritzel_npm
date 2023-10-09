@@ -34,8 +34,8 @@ const data = {
   name: chalk.white('Arthur Ritzel'),
   mail: chalk.hex(color)('ritzelarthur@gmail.com'),
   work: {
-    en: chalk.white('Developer'),
-    pt: chalk.white('Desenvolvedor'),
+    en: chalk.white('Developer/Student'),
+    pt: chalk.white('Desenvolvedor/Estudante'),
   },
   web: chalk.hex(color)('https://arthurritzel.github.io/portifolio'),
   linkedin: chalk.hex(color)('https://www.linkedin.com/in/arthur-ritzel'),
