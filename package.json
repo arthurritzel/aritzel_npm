@@ -1,6 +1,6 @@
 {
   "name": "aritzel",
-  "version": "1.0.1",
+  "version": "1.2.0",
   "description": "A personal card for Arthur Ritzel",
   "bin": {
     "aritzel_npm": "bin/card.js"
