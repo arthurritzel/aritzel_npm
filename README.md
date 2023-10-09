@@ -1,6 +1,6 @@
 # ARitzel
 
-![npm-publish](https://github.com/arthurritzel/card/workflows/npm-publish/badge.svg)
+![npm-publish](https://github.com/guiigos/card/workflows/npm-publish/badge.svg)
 
 
 ## Usage
