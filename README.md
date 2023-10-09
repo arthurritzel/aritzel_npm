@@ -8,5 +8,5 @@
 ## Usage
 
 ```
-$ npx aritzel
+npx aritzel
 ```
