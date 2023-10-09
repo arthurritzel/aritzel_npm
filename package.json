@@ -1,9 +1,9 @@
 {
   "name": "aritzel",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "A personal card for Arthur Ritzel",
   "bin": {
-    "aritzel_npm": "bin/card.js"
+    "aritzel_npm": "./bin/card.js"
   },
   "homepage": "https://arthurritzel.github.io/portifolio/",
   "bugs": {
